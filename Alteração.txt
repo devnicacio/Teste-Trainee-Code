@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 O bagulho tá doido
+=======
+>>>>>>> parent of 980ccea (Alteração do arquivo Alterações.txt)
